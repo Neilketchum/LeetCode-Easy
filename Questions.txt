@@ -103,7 +103,19 @@
 26  Power of Two
     https://leetcode.com/problems/power-of-two/
     Given an integer, write a function to determine if it is a power of two.
-27 Two Sum
+27  Two Sum
     https://leetcode.com/problems/two-sum/
     Given an array of integers, return indices of the two numbers such that they add up to a specific target.
     You may assume that each input would have exactly one solution, and you may not use the same element twice.
+28  Backspace String Compare
+    https://leetcode.com/problems/backspace-string-compare/
+    Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
+    Note that after backspacing an empty text, the text will continue empty.
+29  Move Zeroes
+    https://leetcode.com/problems/move-zeroes/
+    Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+30  Reverse Integer
+    https://leetcode.com/problems/reverse-integer/
+    Given a 32-bit signed integer, reverse digits of an integer.
+31  First Bad Versions
+    https://leetcode.com/problems/first-bad-version/
